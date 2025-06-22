@@ -63,12 +63,6 @@ Built using:
 
 ---
 
-## 🔗 Try it out
-- [Demo Video](https://youtu.be/your-demo-link)
-- [Local Flask App](http://<your-pi-ip>:5000)
-
----
-
 ## 👨‍💻 Contributors
 - Hidhu Das P P
 - Mohammed Aadhil S
